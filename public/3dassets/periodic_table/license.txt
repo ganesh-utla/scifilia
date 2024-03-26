@@ -1,0 +1,11 @@
+Model Information:
+* title:	The 3D Periodic Table
+* source:	https://sketchfab.com/3d-models/the-3d-periodic-table-09cd9683c4244eba9167a083c7298804
+* author:	ApolloIndustries (https://sketchfab.com/TheOfficialApolloIndustries)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The 3D Periodic Table" (https://sketchfab.com/3d-models/the-3d-periodic-table-09cd9683c4244eba9167a083c7298804) by ApolloIndustries (https://sketchfab.com/TheOfficialApolloIndustries) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Male Human Skeleton - ZBrush - Anatomy Study
+* source:	https://sketchfab.com/3d-models/male-human-skeleton-zbrush-anatomy-study-665890c542be433fb18ef235cf987cef
+* author:	Ruslan Gadzhiev (https://sketchfab.com/ruslangadzhiev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Male Human Skeleton - ZBrush - Anatomy Study" (https://sketchfab.com/3d-models/male-human-skeleton-zbrush-anatomy-study-665890c542be433fb18ef235cf987cef) by Ruslan Gadzhiev (https://sketchfab.com/ruslangadzhiev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
