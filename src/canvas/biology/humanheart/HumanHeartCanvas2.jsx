@@ -6,31 +6,26 @@ import {
 } from "@react-three/drei";
 import { Suspense } from "react";
 import CanvasLoader from "../../CanvasLoader";
-import TestTube from "./TestTube";
+import HumanHeart from "./HumanHeart";
 
-const TestTubeCanvas = () => {
+const HumanHeartCanvas2 = () => {
 
   return (
     <Canvas className="cursor-grab active:cursor-grabbing ml-auto text-right" camera={{
-      fov: 425,
+      fov: 5,
       near: 0.5,
       far: 250,
-      position: [-15, 15, 15],
+      position: [-11, 9, 15],
     }}>
       <ambientLight />
       <Environment preset="sunset" />
       <Suspense fallback={<CanvasLoader />}>
-        <OrbitControls
-          autoRotate
-          enableZoom={false}
-          maxPolarAngle={Math.PI / 2}
-          minPolarAngle={Math.PI / 2}
-        />
-        <TestTube />
+        <OrbitControls />
+        <HumanHeart />
         <Preload all/>
       </Suspense>
     </Canvas>
   );
 };
 
-export default TestTubeCanvas;
+export default HumanHeartCanvas2;
